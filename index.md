@@ -1,5 +1,4 @@
-# Valentin Popov personal site
-
-Hi, I'm software developer and I will use this page to store my portfolio.
+# Portfolio
+Will be soon...
 
 [About me and contacts](/about)
