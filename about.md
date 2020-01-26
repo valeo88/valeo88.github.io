@@ -1,15 +1,15 @@
 # About me and contacts
 
-My name is Valentin Popov. I finished physics faculty in Lomonosov Moscow State University in 2012.
+Я закончил физический факультет МГУ им. М.В. Ломоносова в 2012 году.
 
-My way as a software developer began in 2012 with the development
-of a small program to help process the data of an application company
-for material and technical resources for JSC Gazprom.
+Мой путь, как разработчика ПО начался в 2012 году с разработки небольшой программы, которая использовалась в обработке заявочной компании МТР для АО "Газпром".
 
-For 8 years, I was able to go from
-a junior developer to a senior, developing fairly large information systems
-from scratch and putting them into commercial operation.
+За 8 лет мне удалось пройти путь от начинающего до опытного разработчика, разрабатывая достаточно крупные информационные системы с нуля и до ввода в промышленную эксплуатацию.
 
-You can contact me via:
-* E-mail: **valeo.popov@gmail.com**
+Я люблю учится, узнавать новое и применять это в своей работе. Стараюсь не бросать слов на ветер и выполнять свои обещания.
+
+Вы можете связаться со мной:
+
+* E-mail: **valeo.popov@gmail.com** (предпочтительно)
 * Skype: **ahinotron**
+
