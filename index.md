@@ -3,6 +3,8 @@
 
 [2013-2015: MyMD assistant app](/mymdassistant)
 
+[2013-2015: AS DPO system for Pirogov RNRMU](/asdpo)
+
 Продолжение следует...
 
 -----
