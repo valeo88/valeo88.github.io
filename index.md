@@ -1,4 +1,6 @@
 # Portfolio
+[2017-2020: Common components on CUBA.platform](/cubacommons)
+
 [2018: Mellophone on Redis](/mellophoner)
 
 [2015-2019: Minzdrav RF NMO portal](/nmoportal)
