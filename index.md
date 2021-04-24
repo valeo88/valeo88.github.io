@@ -1,4 +1,6 @@
 # Portfolio
+[2020-Present: Gazprombank ESFL & Dashboard (via Luxoft)](/luxoftgpb)
+
 [2017-2020: NMO portal education system](/cubaonlineeducation)
 
 [2017-2020: Common components on CUBA.platform](/cubacommons)
@@ -12,8 +14,6 @@
 [2013-2015: MyMD assistant app](/mymdassistant)
 
 [2012: LocalKEK tool for Gazprom MTR application process](/localkek2012)
-
-Продолжение следует...
 
 -----
 
