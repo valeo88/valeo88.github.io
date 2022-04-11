@@ -1,5 +1,7 @@
 # Portfolio
-[2021-present: Gazprombank OLIMP (via Luxoft)](/luxoftolimp)
+[2021-present: Yandex Fintech](/yandexfintech)
+
+[2021-2021: Gazprombank OLIMP (via Luxoft)](/luxoftolimp)
 
 [2020-2021: Gazprombank ESFL & Dashboard (via Luxoft)](/luxoftgpb)
 
