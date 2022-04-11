@@ -1,4 +1,23 @@
-# Yandex Fintech
+# Yandex Fintech проект Яндекс Банк
 
-Разработка backend-сервисов для Яндекс Банка.
-Kotlin, Spring Boot, PostgeSQL, Yandex Database, Apache Kafka, Temporal,...
+## Роль
+Kotlin backend developer
+
+## Обязанности
+* разработка микросервисов
+* интеграция со смежными системами
+* деплой, поддержка микросервисов в тестовой и продуктивной среде
+
+## Технологии
+* Kotlin
+* Spring (Boot, Data)
+* Ktor
+* Apache Kafka
+* PostgreSQL
+* Yandex Database
+* Temporal
+* EFK stack
+* Docker
+* K8S
+* Yandex Cloud
+* Yandex infrastructure
