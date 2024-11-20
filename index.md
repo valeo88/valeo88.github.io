@@ -1,5 +1,7 @@
 # Portfolio
-[2021-present: Yandex Fintech](/yandexfintech)
+[2023-present: Yandex Verticals (auto.ru)](/yandexverticals)
+
+[2021-2023: Yandex Fintech (Bank)](/yandexfintech)
 
 [2021-2021: Gazprombank OLIMP (via Luxoft)](/luxoftolimp)
 
