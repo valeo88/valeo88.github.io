@@ -7,15 +7,15 @@ Kotlin backend developer
 * разработка микросервисов
 * интеграция со смежными системами
 * деплой, поддержка микросервисов в тестовой и продуктивной среде
+* дежурства (реагирование на алерты, решение инцидентов,...)
 
 ## Технологии
 * Kotlin
 * Spring (Boot, Data)
 * Ktor
-* Apache Kafka
 * PostgreSQL
-* Yandex Database
-* Temporal
+* Yandex Database (YDB)
+* Apache Kafka
 * EFK stack
 * Docker
 * K8S
